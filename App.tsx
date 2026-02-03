@@ -78,7 +78,7 @@ const PROJECTS: Project[] = [
       { label: "Précision", value: "99.8%" }
     ],
     link: "https://example.com/healthcare-demo",
-    demoUrl: "/demos/healthcare-demo.mp4",
+    demoUrl: "https://res.cloudinary.com/ddxwnpqur/video/upload/v1770143964/healthcare-demo_c18czg.mp4",
     demoType: "video"
   },
   {
@@ -96,7 +96,7 @@ const PROJECTS: Project[] = [
       { label: "Rétention", value: "46%" }
     ],
     link: "https://example.com/shopify-demo",
-    demoUrl: "/demos/shopify-demo.mp4",
+    demoUrl: "https://res.cloudinary.com/ddxwnpqur/video/upload/v1770143971/shopify-demo_on3dgr.mp4",
     demoType: "video"
   },
   {
@@ -114,7 +114,7 @@ const PROJECTS: Project[] = [
       { label: "Latence", value: "< 2s" }
     ],
     link: "https://example.com/retail-demo",
-    demoUrl: "/demos/retail-demo.mp4",
+    demoUrl: "https://res.cloudinary.com/ddxwnpqur/video/upload/v1770143970/retail-demo_b64vws.mp4",
     demoType: "video"
   },
   {
@@ -132,7 +132,7 @@ const PROJECTS: Project[] = [
       { label: "ROI", value: "240%" }
     ],
     link: "https://example.com/pizza-demo",
-    demoUrl: "/demos/pizza-demo.mp4",
+    demoUrl: "https://res.cloudinary.com/ddxwnpqur/video/upload/v1770143968/pizza-demo_gbjthy.mp4",
     demoType: "video"
   },
   {
@@ -161,7 +161,7 @@ const PROJECTS: Project[] = [
       { label: "ROAS", value: "4.6x" }
     ],
     link: "",
-    demoUrl: "/demos/META-ADS FINAL-demo.mp4",
+    demoUrl: "https://res.cloudinary.com/ddxwnpqur/video/upload/v1770143966/META-ADS_FINAL-demo_b6bwzt.mp4",
     demoType: "video"
   },
   {
@@ -191,7 +191,7 @@ const PROJECTS: Project[] = [
       { label: "Score d'engagement", value: "73/100" }
     ],
     link: "",
-    demoUrl: "/demos/RH-demo.mp4",
+    demoUrl: "https://res.cloudinary.com/ddxwnpqur/video/upload/v1770143971/RH-demo_sy7aeu.mp4",
     demoType: "video"
   },
   {
@@ -221,7 +221,7 @@ const PROJECTS: Project[] = [
       { label: "Modèle RMSE", value: "0.87" }
     ],
     link: "",
-    demoUrl: "/demos/spotify-demo.mp4",
+    demoUrl: "https://res.cloudinary.com/ddxwnpqur/video/upload/v1770143964/spotify-demo_awgcso.mp4",
     demoType: "video"
   }
 ];
