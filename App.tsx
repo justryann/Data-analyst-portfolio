@@ -336,7 +336,7 @@ const Navbar = () => {
           <div className="w-10 h-10 bg-gradient-to-br from-neon-mint to-electric-blue rounded-lg flex items-center justify-center font-tech font-extrabold text-industry-dark shadow-lg">
             RL
           </div>
-          <span className="font-tech text-sm font-bold tracking-tight text-white">Data Analysis with RYANN LOIC</span>
+          <span className="font-tech text-sm font-bold tracking-tight text-white">Data Analyst with RYANN LOIC</span>
         </div>
 
         <div className="hidden md:flex items-center gap-10">
